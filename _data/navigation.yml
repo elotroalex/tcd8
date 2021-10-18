@@ -1,21 +1,22 @@
 - title: Home
-  url: /2020/
+  url: /2021/
 - title: People
-  url: /2020/people/
+  url: /2021/people/
 # - title: Live Feed
-#   url: /2020/live-feed/
+#   url: /2021/live-feed/
 - title: Program
   url: \#
   sublinks:
-    - title: "The Directory"
-      url: /2020/directory/
-    - title: "Cahier Notes"
-      url: /2020/cahier/
+    - title: "Schedule"
+      url: /2021/schedule/
+    - title: "Grainger"
+      url: /2021/grainger/
     - title: "Keywords"
-      url: /2020/keywords/
-
+      url: /2021/keywords/
+    - title: "The Directory"
+      url: /2021/directory/
 # - title: Participants
-#   url: /2020/bios/
+#   url: /2021/bios/
 
 # - title: Archive
 #   url: /#
