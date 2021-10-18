@@ -1,0 +1,32 @@
+- title: Home
+  url: /2020/
+- title: People
+  url: /2020/people/
+# - title: Live Feed
+#   url: /2020/live-feed/
+- title: Program
+  url: \#
+  sublinks:
+    - title: "The Directory"
+      url: /2020/directory/
+    - title: "Cahier Notes"
+      url: /2020/cahier/
+    - title: "Keywords"
+      url: /2020/keywords/
+
+# - title: Participants
+#   url: /2020/bios/
+
+# - title: Archive
+#   url: /#
+#   sublinks:
+#     - title: "#sxcd2018"
+#       url: http://caribbeandigitalnyc.net/2018/
+#     - title: "#sxcd2017"
+#       url: http://caribbeandigitalnyc.net/2017/
+#     - title: "#sxcd2016"
+#       url: http://caribbeandigitalnyc.net/2016/
+#     - title: "#sxcd2015"
+#       url: http://caribbeandigitalnyc.net/2015/
+#     - title: "#sxcd2014"
+#       url: https://wayback.archive-it.org/1914/20151224034027/http://caribbeandigital.cdrs.columbia.edu/
