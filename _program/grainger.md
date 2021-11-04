@@ -7,8 +7,6 @@ participants: "Julie Kim and Kimberly Takahata"
 permalink: /grainger/
 ---
 
----
-
 <br>
 
 We invite you to an online annotation event--or counter-annotation event--about James Grainger’s poem The Sugar-Cane. This event will take place asynchronously from Monday, November 15, to Friday, November 19, 2021, and provide participants with a chance to engage collectively with historical texts about the Caribbean. Grainger’s The Sugar-Cane was first published in London in 1764 and drew attention for its portrayal of sugar plantations, the economic engines of the British Empire. Today, researchers, teachers, and others read Grainger because it includes detailed depictions of the experiences of the enslaved. At the same time, because the point of Grainger’s poem was to celebrate the system of plantation slavery, his poem must be presented in a critical manner that challenges its mission, silences, and violence. When a team of researchers based at Columbia and Fordham Universities in New York created a [digital edition of The Sugar-Cane](https://digital-grainger.github.io/grainger/), then, we aimed to produce a “counter-edition” that would interrogate Grainger’s pro-slavery stance and help readers interpret the poem for evidence of Afro-Caribbean and indigenous life, knowledge, survival, and resistance.
