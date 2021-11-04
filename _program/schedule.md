@@ -17,8 +17,8 @@ permalink: /schedule/
 
 A plenary discussion concerning the role of digital scholarship in substantively integrating and engaging with Caribbean communities in building Afro-diasporic institutions.
 
-- Regine Michelle Jean-Charles
-- Minkah Makalani
+- Regine Michelle Jean-Charles (Northeastern University)
+- Minkah Makalani (University of Texas)
 - Matthew Smith
 
 ## Interlude: Annotating Grainger
@@ -27,8 +27,8 @@ A plenary discussion concerning the role of digital scholarship in substantively
 
 A presentation on the week long annotation of Digital Grainger.
 
-- Julie Kim (Associate Professor, Fordham University)
-- Kimberly Takahata (Assistant Professor, Villanova University)
+- Julie Kim (Fordham University)
+- Kimberly Takahata (Villanova University)
 
 ## Small Coffee Break
 
@@ -40,10 +40,10 @@ A presentation on the week long annotation of Digital Grainger.
 
 A plenary discussion concerning the present scope of Caribbean digital libraries and archives, and what futures we may dream of together as a Caribbean community.
 
-- Aida Montero (Director, Biblioteca Juan Bosch)
-- Margo Groenewoud (Faculty of Social and Behavioral Sciences, University of Curaçao)
+- Aida Montero (Biblioteca Juan Bosch)
+- Margo Groenewoud (University of Curaçao)
 - Vidyaratha Kissoon (Independent Scholar)
-- Hadassah St. Hubert (Program Officer, National Endowment for the Humanities)
+- Hadassah St. Hubert (National Endowment for the Humanities)
 
 ## Concluding Remarks
 
