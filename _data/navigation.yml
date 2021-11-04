@@ -1,20 +1,20 @@
 - title: Home
-  url: /2021/
+  url: /
 - title: People
-  url: /2021/people/
+  url: /people/
 # - title: Live Feed
-#   url: /2021/live-feed/
+#   url: /live-feed/
 - title: Program
   url: \#
   sublinks:
     - title: "Schedule"
-      url: /2021/schedule/
+      url: /schedule/
     - title: "Grainger"
-      url: /2021/grainger/
+      url: /grainger/
     - title: "CariDiScho"
-      url: /2021/directory/
+      url: /directory/
 # - title: Participants
-#   url: /2021/bios/
+#   url: /bios/
 
 # - title: Archive
 #   url: /#
