@@ -19,7 +19,7 @@ A plenary discussion concerning the role of digital scholarship in substantively
 
 - Regine Michelle Jean-Charles (Northeastern University)
 - Minkah Makalani (University of Texas)
-- Matthew Smith
+- Matthew Smith (University College of London)
 
 ## Interlude: Annotating Grainger
 
