@@ -21,6 +21,6 @@ In 2019 _archipelagos_ journal hosted a similar event as an exercise in digital 
 
 <br>
 
-<p class="aligncenter"><button style="margin-right: 20px"><a href="https://www.eventbrite.com/e/annotating-grainger-hypothesis-tutorial-tickets-205670454867" target="_blank">Sign up for the Tutorial</a></button>   <button><a href="https://via.hypothes.is/https://digital-grainger.github.io/grainger/texts/full-text.html#book-iv" target="_blank">Annotate The Sugar-Cane</a></button></p>
+<p class="aligncenter"><a href="https://www.eventbrite.com/e/annotating-grainger-hypothesis-tutorial-tickets-205670454867" target="_blank"><button style="margin-right: 20px">Sign up for the Tutorial</button></a>   <a href="https://via.hypothes.is/https://digital-grainger.github.io/grainger/texts/full-text.html#book-iv" target="_blank"><button>Annotate The Sugar-Cane</button></a></p>
 
 <br>
