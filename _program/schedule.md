@@ -25,12 +25,12 @@ A plenary discussion concerning the role of digital scholarship in substantively
 
 ### 2:00PM – 2:20PM
 
-A presentation on the week long annotation of Digital Grainger.
+A presentation on the week long annotation of _Digital Grainger_.
 
 - Julie Kim (Fordham University)
 - Kimberly Takahata (Villanova University)
 
-## Small Coffee Break
+## Small Break
 
 ### 2:20PM – 2:30PM
 
