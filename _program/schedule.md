@@ -30,7 +30,7 @@ A presentation on the week long annotation of _Digital Grainger_.
 - Julie Kim (Fordham University)
 - Kimberly Takahata (Villanova University)
 
-## Small Break
+## Comfort Break
 
 ### 2:20PM -- 2:30PM
 
