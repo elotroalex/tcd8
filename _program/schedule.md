@@ -42,7 +42,7 @@ A plenary discussion concerning the present scope of Caribbean digital libraries
 
 - Aida Montero (Biblioteca Juan Bosch)
 - Margo Groenewoud (University of Curaçao)
-- Vidyaratha Kissoon (Independent Scholar)
+- Vidyaratha Kissoon (Caribbean IRN)
 - Hadassah St. Hubert (National Endowment for the Humanities)
 
 ## Concluding Remarks
