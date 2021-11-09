@@ -8,7 +8,7 @@ permalink: /grainger/
 ---
 
   <h2 class="notice">
-    November 15–20, 2021
+    November 15–19, 2021
   </h2>
 
 <br>
