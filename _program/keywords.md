@@ -17,4 +17,4 @@ This project aimed to build a collection of words that serve as rich sites for r
 The collection was launched at the Caribbean Digital event on 4 December 2020.
 
 <br>
-<p class="aligncenter"><button><a href="https://caribbeandigitalnyc.net/keywords/">Visit the Keywords</a></button></p>
+<p class="aligncenter"><button><a href="https://caribbeandigitalnyc.net/keywords/keywords/">Visit the Keywords</a></button></p>
